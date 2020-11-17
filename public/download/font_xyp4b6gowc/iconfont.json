@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "554205",
+      "name": "闪电",
+      "font_class": "iconset0216",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "2674476",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "7090068",
+      "name": "退换货",
+      "font_class": "tuihuanhuo",
+      "unicode": "e715",
+      "unicode_decimal": 59157
+    },
+    {
+      "icon_id": "15990894",
+      "name": "货车1",
+      "font_class": "huoche1",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    }
+  ]
+}

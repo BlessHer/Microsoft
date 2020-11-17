@@ -1,0 +1,79 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "545056",
+      "name": "xbox",
+      "font_class": "xbox",
+      "unicode": "e957",
+      "unicode_decimal": 59735
+    },
+    {
+      "icon_id": "746219",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "1680711",
+      "name": "客户回收站",
+      "font_class": "kehuhuishouzhan",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "2058611",
+      "name": "VR glasses VR眼镜",
+      "font_class": "VRglasses",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "6605038",
+      "name": "windows",
+      "font_class": "windows",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "7090068",
+      "name": "退换货",
+      "font_class": "tuihuanhuo",
+      "unicode": "e715",
+      "unicode_decimal": 59157
+    },
+    {
+      "icon_id": "10918195",
+      "name": "windows-fill",
+      "font_class": "windows-fill",
+      "unicode": "e776",
+      "unicode_decimal": 59254
+    },
+    {
+      "icon_id": "13751547",
+      "name": "笔记本电脑",
+      "font_class": "bijibendiannao",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "15144582",
+      "name": "icon_快捷支付管理@2x",
+      "font_class": "icon_kuaijiezhifuguanli2x",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "15991008",
+      "name": "货车",
+      "font_class": "huoche",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    }
+  ]
+}

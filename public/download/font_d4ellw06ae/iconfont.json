@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "998481",
+      "name": "五角星",
+      "font_class": "ai64",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "998482",
+      "name": "五角星",
+      "font_class": "ai65",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "2742627",
+      "name": "地球",
+      "font_class": "diqiu",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "14101587",
+      "name": "五角星",
+      "font_class": "wujiaoxing",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    }
+  ]
+}
